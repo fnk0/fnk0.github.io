@@ -10,11 +10,11 @@ Hi, My name is Marcus Gabilheri and I'm currently a college student studying Com
 
 During my free time I also enjoy putting apps together. Some of my most recent apps are:
 
-### [https://play.google.com/store/apps/details?id=gabilheri.com.inboxdashclock](Inbox DashClock Extension)
+### [Inbox DashClock Extension](https://play.google.com/store/apps/details?id=gabilheri.com.inboxdashclock)
 
 It is a small extension for the original Gmail extension made by Roman Nurik that allows the user to go to the inbox app rather than gmail as well filter some of the messages by the gmail labels.
 
-###[https://play.google.com/store/apps/details?id=com.gabilheri.fithub](FitHub)
+###[FitHub](https://play.google.com/store/apps/details?id=com.gabilheri.fithub)
 
 Fitness application that act as a "hub" for various fitness trackers in order to view the information in one place as well compete on Google Play Games leaderaboards against your friends.
 FitHub won one of the 12 Grand prize winners on the 2015 Google Fit Developers Challenge organized by Google, Adidas, and other brands.
