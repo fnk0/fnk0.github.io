@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Starting my adventures in rxAndroid Land
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+So.. A few months ago I started hearing a lot about this "new" hotness among Android developers called rxJava. Since it got really popupar among Android devs a library named rxAndroid was made by the community. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+This summer I decided to actually learn rxAndroid/rxJava and I couldn't find a better way to make an App to showcase the work done. I will be making a series of posts based on things that I learn while experimenting and dealing with common problems someone might find (since I tend to find ALL the problems, I believe that this posts will be very helpful and friendly). 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+```java
+
+public Observable<List<Object>> findObjects();
+
+```
