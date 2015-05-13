@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, My name is Marcus Gabilheri and I'm currently a college student studying Computer Science @ Oklahoma State University (OSU). I work for the Plant & Soil Physics department at OSU as a FullStack and Android Developer on the [http://www.canopeoapp.com/](Canopeo Project) to which I developed the Website/Web App using Angular JS, the server side using Python/Django and the Android app using a diverse number of open source libraries.
+Hi, My name is Marcus Gabilheri and I'm currently a college student studying Computer Science @ Oklahoma State University (OSU). I work for the Plant & Soil Physics department at OSU as a FullStack and Android Developer on the [Canopeo Project](http://www.canopeoapp.com/) to which I developed the Website/Web App using Angular JS, the server side using Python/Django and the Android app using a diverse number of open source libraries.
 
 ### More Information
 
